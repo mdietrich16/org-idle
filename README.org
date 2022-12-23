@@ -1,4 +1,4 @@
-#+TITLE orgmode-idle: Orgmode plugin that manages idle time for Neovim
+#+TITLE: orgmode-idle: Orgmode plugin that manages idle time for Neovim
 
 * About orgmode-idle
 
