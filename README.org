@@ -1,0 +1,7 @@
+#+TITLE orgmode-idle: Orgmode plugin that manages idle time for Neovim
+
+* About orgmode-idle
+
+/orgmode-idle is not finished yet, this is just a proof of concept!/
+It does remind you when you return from being idle and asks what you want to do, but does not act on it.
+Also, this requires `xprintidle`, which is only available on linux and X11.
